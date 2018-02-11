@@ -11,6 +11,9 @@
 .. image:: https://readthedocs.org/projects/corpus-django/badge/?version=master
     :target: http://corpus-django.readthedocs.io/
 
+
+**Moved to `corpusops/setups.django <moved to https://github.com/corpusops/setups.django>`_**
+
 Makina corpus users, you should use:
 
     - `docs/corpusdjango/makinastates_standalone.rst  <./docs/corpusdjango/makinastates_standalone.rst>`_
