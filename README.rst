@@ -12,7 +12,7 @@
     :target: http://corpus-django.readthedocs.io/
 
 
-**Moved to `corpusops/setups.django <moved to https://github.com/corpusops/setups.django>`_**
+**Moved to `corpusops/setups.django <https://github.com/corpusops/setups.django>`_**
 
 Makina corpus users, you should use:
 
